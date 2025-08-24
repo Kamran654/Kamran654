@@ -27,8 +27,8 @@ Welcome to my GitHub profile! Here, you’ll find projects and resources that sh
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/goyank_03) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niladrih03)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nishan2653?igsh=MW9wc25wcjBnamtxbA==) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-kamran-asraf-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aliakash666666@gmail.com)
 
 ## 📊 GitHub Stats:
