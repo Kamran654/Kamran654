@@ -31,10 +31,6 @@ Welcome to my GitHub profile! Here, you’ll find projects and resources that sh
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-kamran-asraf-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aliakash666666@gmail.com)
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=miyamura-web&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=miyamura-web&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=miyamura-web&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 👀 Profile Views  
 ![Profile Views](https://komarev.com/ghpvc/?username=miyamura-web&style=for-the-badge&color=brightgreen)
