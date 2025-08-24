@@ -1,11 +1,11 @@
-# 👋 *Hi, I'm Niladri*
+# 👋 *Hi, I'm Ali Kamran*
 
 ![github](https://github.com/user-attachments/assets/49858a05-1219-4bee-b26b-6c7dbb055383)
 
                                                      Economics & Management student
-#### 💼 *Aspiring Research Analyst*  
+#### 💼 *Aspiring Financial Analyst*  
 
-Welcome to my GitHub profile! Here, you’ll find projects and resources that showcase my skills in data analysis, visualization, and programming. My background combines a strong foundation in management and economics with hands on technical expertise.
+Welcome to my GitHub profile! Here, you’ll find projects and resources that showcase my finance knowledge , skills in data analysis, visualization, and programming. My background combines a strong foundation in management and economics with hands on technical expertise.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -16,11 +16,13 @@ Welcome to my GitHub profile! Here, you’ll find projects and resources that sh
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 💻 *Technical Skills*
-- *Programming Languages* : Python, R, SQL, HTML
+- *Programming Languages* : Python, R, SQL
 - *Data Visualization & Analytical Tools* : Power BI, MS Excel
 - *Statistical & Econometric Techniques* : Econometrics, Regression analysis, Time series analysis, Sentiment analysis 
-- *Supporting Technologies* : JIRA, LaTex, GitHub
+- *Supporting Technologies* : JIRA, LaTex, GitHub 
 - *Non-Technical Skills* : Analytical Thinking, Data Interpretation, Communication, Leadership, Time Management, Presentation
+- *Finance Skill* : Financial Modelling , Stock Market , Technical Analysis , Financial analysis , Financial Statement 
+- 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
