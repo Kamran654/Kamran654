@@ -36,8 +36,4 @@ Welcome to my GitHub profile! Here, you’ll find projects and resources that sh
 ![Profile Views](https://komarev.com/ghpvc/?username=miyamura-web&style=for-the-badge&color=brightgreen)
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Kamran654-web&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
-[![](https://visitcount.itsvg.in/api?id=Kamran654-web&icon=0&color=0)](https://visitcount.itsvg.in)
