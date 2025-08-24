@@ -22,7 +22,6 @@ Welcome to my GitHub profile! Here, you’ll find projects and resources that sh
 - *Supporting Technologies* : JIRA, LaTex, GitHub 
 - *Non-Technical Skills* : Analytical Thinking, Data Interpretation, Communication, Leadership, Time Management, Presentation
 - *Finance Skill* : Financial Modelling , Stock Market , Technical Analysis , Financial analysis , Financial Statement 
-- 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -30,7 +29,7 @@ Welcome to my GitHub profile! Here, you’ll find projects and resources that sh
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/goyank_03) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niladrih03)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niladrih03@gmail.com)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aliakash666666@gmail.com)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=miyamura-web&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
